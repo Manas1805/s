@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-k8s-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manas1805/nodejs-k8s-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manas1805/nodejs-k8s-app/issues"
+  },
+  "homepage": "https://github.com/Manas1805/nodejs-k8s-app#readme"
+}
